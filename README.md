@@ -1,6 +1,6 @@
-# APIWAY Design
-
 ![logo](https://github.com/ApiWay/apiway-design/blob/master/img/logo.png)
+
+# APIWAY Design
 HTML, CSS, Jquery 단순 디자인 프로토타입입니다.  
 디자인 및 코딩이 동시에 진행되거나 서로 얽혀서 수정사항, 개선 아이디어가 수시로 반영됩니다.
 
